@@ -1,8 +1,6 @@
-# python-project-lvl1
-
 # BRAIN GAMES
 
-<a href="https://codeclimate.com/github/GreyGreyWolf/python-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/c0eb046de2d7cb2a910a/maintainability" /></a>
+`<a href="https://codeclimate.com/github/GreyGreyWolf/python-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/c0eb046de2d7cb2a910a/maintainability" />``</a>`
 [![Build Status](https://travis-ci.com/GreyGreyWolf/python-project-lvl1.svg?branch=master)](https://travis-ci.com/GreyGreyWolf/python-project-lvl1)
 
 # Игра "Проверка на четность"

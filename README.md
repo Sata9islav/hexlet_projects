@@ -1,4 +1,4 @@
-# Hexlet: Python разработчик
+# Hexlet's projects
 
 <table>
 <tr>
